@@ -22,12 +22,21 @@
 # Registers:
 
 # File marks:
-'0  1  1  ~/zero_day/README.md
+'0  1  25  ~/README.md
+'1  1  1  ~/zero_day/README.md
 
 # Jumplist (newest first):
+-'  1  25  ~/README.md
+-'  1  1  ~/zero_day/README.md
 -'  1  1  ~/zero_day/README.md
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	"	1	25
+	^	1	26
+	.	1	25
+	+	1	25
 
 > ~/zero_day/README.md
 	"	1	1
